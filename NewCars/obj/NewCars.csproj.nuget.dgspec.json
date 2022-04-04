@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carva\\source\\repos\\NewCars\\NewCars\\NewCars.csproj": {}
+    "D:\\user\\Documentos\\GitHub\\NewCars\\NewCars\\NewCars.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carva\\source\\repos\\NewCars\\NewCars\\NewCars.csproj": {
+    "D:\\user\\Documentos\\GitHub\\NewCars\\NewCars\\NewCars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCars\\NewCars.csproj",
+        "projectUniqueName": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCars\\NewCars.csproj",
         "projectName": "NewCars",
-        "projectPath": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCars\\NewCars.csproj",
+        "projectPath": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCars\\NewCars.csproj",
         "packagesPath": "C:\\Users\\carva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCars\\obj\\",
+        "outputPath": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carva\\AppData\\Roaming\\NuGet\\NuGet.Config"

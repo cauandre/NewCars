@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCarsLib\\NewCarsLib.csproj",
+      "projectUniqueName": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCarsLib\\NewCarsLib.csproj",
       "projectName": "NewCarsLib",
-      "projectPath": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCarsLib\\NewCarsLib.csproj",
+      "projectPath": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCarsLib\\NewCarsLib.csproj",
       "packagesPath": "C:\\Users\\carva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carva\\source\\repos\\NewCars\\NewCarsLib\\obj\\",
+      "outputPath": "D:\\user\\Documentos\\GitHub\\NewCars\\NewCarsLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carva\\AppData\\Roaming\\NuGet\\NuGet.Config"
